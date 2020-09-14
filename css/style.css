@@ -1,0 +1,36 @@
+body{
+    position: relative;
+    max-width: 100%;
+}
+.navbar{
+    width: 100%;
+    max-width: 100%;
+}
+
+.bg-custom{
+    background-color: rgba(0, 0, 0, 0.7);
+}
+.logo{
+    width: 50%;
+}
+.showcase{
+    background: url('../img/computers.png');
+}
+.showcase-overlay{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100vw;
+    max-width: 100%;
+    height: 100vh;
+}
+.showcase-text h1{
+    font-size: 5rem;
+}
+.btn-custom{
+    background-color: rgb(6, 139, 106);
+}
+#course p{
+    font-size: 1.5rem;
+}
+.bg-features-custom{
+    background-color: rgb(168, 167, 167);
+}
